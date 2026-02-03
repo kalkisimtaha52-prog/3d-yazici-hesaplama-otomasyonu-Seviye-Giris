@@ -52,7 +52,7 @@ cd printcost
 pip install -r requirements.txt
 
 # Uygulamayı çalıştırın
-streamlit run oso.py
+streamlit run otomasyon_3d.py
 ```
 
 ---
